@@ -37,6 +37,7 @@ class dBOperation:
 
                 """
         try:
+
             conn = sqlite3.connect(self.path+DatabaseName+'.db')
 
             file = open("Training_Logs/DataBaseConnectionLog.txt", 'a+')
@@ -64,7 +65,7 @@ class dBOperation:
         try:
             conn = self.dataBaseConnection(DatabaseName)
             c=conn.cursor()
-            c.execute("SELECT count(name)  FROM sqlite_master WHERE type = 'table'AND name = 'Good_Raw_Data'")
+            c.execute("SELECT count(name)  FROM sqlite_master WHERE type = 'table' AND name = 'Good_Raw_Data'")
             if c.fetchone()[0] ==1:
                 conn.close()
                 file = open("Training_Logs/DbTableCreateLog.txt", 'a+')

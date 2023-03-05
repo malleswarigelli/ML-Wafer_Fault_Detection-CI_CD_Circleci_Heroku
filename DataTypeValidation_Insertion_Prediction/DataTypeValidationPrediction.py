@@ -24,7 +24,7 @@ class dBOperation:
         self.logger = App_Logger()
 
 
-    def dataBaseConnection(self,DatabaseName):
+    def dataBaseConnection(self, DatabaseName):
 
         """
                         Method Name: dataBaseConnection

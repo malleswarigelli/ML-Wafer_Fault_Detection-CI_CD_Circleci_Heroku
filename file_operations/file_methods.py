@@ -37,8 +37,7 @@ class File_Operation:
                 os.makedirs(path)
             else:
                 os.makedirs(path) #
-            with open(path +'/' + filename+'.sav',
-                      'wb') as f:
+            with open(path +'/' + filename+'.sav','wb') as f:
                 pickle.dump(model, f) # save the model to file
             self.logger_object.log(self.file_object,
                                    'Model File '+filename+' saved. Exited the save_model method of the Model_Finder class')
