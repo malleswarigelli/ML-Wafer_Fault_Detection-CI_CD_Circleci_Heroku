@@ -41,8 +41,9 @@ def predictRouteClient():
 
             # predicting for dataset present in database
             path, json_predictions = pred.predictionFromModel()
-            return Response("Prediction File created at !!!" + str(path) + 'and few of the predictions are ' + str(
+            return Response("Prediction File created at !!! " + str(path) + ' and few of the predictions are ' + str(
                 json.loads(json_predictions)))
+            
         elif request.form is not None:
             path = request.form['filepath']
 
@@ -76,7 +77,7 @@ def trainRouteClient():
         if folder_path is not None:
             path = folder_path
 
-            train_valObj = train_validation(path)  # object initialization
+            train_valObj = train_validation()  # object initialization
 
             train_valObj.train_validation()  # calling the training_validation function
 

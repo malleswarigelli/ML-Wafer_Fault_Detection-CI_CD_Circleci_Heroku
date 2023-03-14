@@ -1,0 +1,12 @@
+prefix=c:/Users/anjik/Desktop/iNeuron_FSDS/ML_end_to_end_projects/ML_wafer_circleci_Heroku/venv/Library
+exec_prefix=c:/Users/anjik/Desktop/iNeuron_FSDS/ML_end_to_end_projects/ML_wafer_circleci_Heroku/venv/Library
+libdir=c:/Users/anjik/Desktop/iNeuron_FSDS/ML_end_to_end_projects/ML_wafer_circleci_Heroku/venv/Library/lib
+includedir=c:/Users/anjik/Desktop/iNeuron_FSDS/ML_end_to_end_projects/ML_wafer_circleci_Heroku/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -23,8 +23,8 @@ class Raw_Data_validation:
 
              """
 
-    def __init__(self,path):
-        self.Batch_Directory = path
+    def __init__(self):
+        self.Batch_Directory = 'Training_Batch_Files'
         self.schema_path = 'schema_training.json'
         self.logger = App_Logger()
 
@@ -255,6 +255,7 @@ class Raw_Data_validation:
         #create new directories
         self.createDirectoryForGoodBadRawData()
         onlyfiles = [f for f in listdir(self.Batch_Directory)]
+        
         try:
             f = open("Training_Logs/nameValidationLog.txt", 'a+')
             for filename in onlyfiles:

@@ -55,3 +55,52 @@
 2023-03-05/16:39:52		GoodRaw directory deleted successfully!!!
 2023-03-05/16:40:03		BadRaw directory deleted before starting validation!!!
 2023-03-05/16:40:03		GoodRaw directory deleted successfully!!!
+2023-03-13/11:39:08		BadRaw directory deleted before starting validation!!!
+2023-03-13/11:39:08		GoodRaw directory deleted successfully!!!
+2023-03-14/08:43:48		BadRaw directory deleted before starting validation!!!
+2023-03-14/08:43:49		GoodRaw directory deleted successfully!!!
+2023-03-14/09:37:42		BadRaw directory deleted before starting validation!!!
+2023-03-14/09:37:42		GoodRaw directory deleted successfully!!!
+2023-03-14/11:05:50		BadRaw directory deleted before starting validation!!!
+2023-03-14/11:05:50		GoodRaw directory deleted successfully!!!
+2023-03-14/11:11:49		BadRaw directory deleted before starting validation!!!
+2023-03-14/11:11:49		GoodRaw directory deleted successfully!!!
+2023-03-14/11:12:47		BadRaw directory deleted before starting validation!!!
+2023-03-14/11:12:47		GoodRaw directory deleted successfully!!!
+2023-03-14/11:13:13		GoodRaw directory deleted successfully!!!
+2023-03-14/11:13:13		Bad files moved to archive
+2023-03-14/11:13:13		Bad Raw Data Folder Deleted successfully!!
+2023-03-14/11:33:25		BadRaw directory deleted before starting validation!!!
+2023-03-14/11:33:30		GoodRaw directory deleted successfully!!!
+2023-03-14/11:39:07		GoodRaw directory deleted successfully!!!
+2023-03-14/11:39:39		Bad files moved to archive
+2023-03-14/11:39:39		Bad Raw Data Folder Deleted successfully!!
+2023-03-14/12:17:35		BadRaw directory deleted before starting validation!!!
+2023-03-14/12:17:35		GoodRaw directory deleted successfully!!!
+2023-03-14/12:18:46		GoodRaw directory deleted successfully!!!
+2023-03-14/12:18:52		Bad files moved to archive
+2023-03-14/12:18:52		Bad Raw Data Folder Deleted successfully!!
+2023-03-14/13:19:32		GoodRaw directory deleted successfully!!!
+2023-03-14/13:19:46		BadRaw directory deleted before starting validation!!!
+2023-03-14/13:20:10		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2023-03-14/13:20:31		Bad files moved to archive
+2023-03-14/13:20:31		Bad Raw Data Folder Deleted successfully!!
+2023-03-14/13:23:35		GoodRaw directory deleted successfully!!!
+2023-03-14/13:36:04		BadRaw directory deleted before starting validation!!!
+2023-03-14/13:36:04		GoodRaw directory deleted successfully!!!
+2023-03-14/13:37:35		BadRaw directory deleted before starting validation!!!
+2023-03-14/13:37:35		GoodRaw directory deleted successfully!!!
+2023-03-14/13:37:54		GoodRaw directory deleted successfully!!!
+2023-03-14/13:37:54		Bad files moved to archive
+2023-03-14/13:37:54		Bad Raw Data Folder Deleted successfully!!
+2023-03-14/14:17:14		GoodRaw directory deleted successfully!!!
+2023-03-14/14:17:14		BadRaw directory deleted before starting validation!!!
+2023-03-14/14:17:14		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2023-03-14/14:20:54		Bad files moved to archive
+2023-03-14/14:20:54		Bad Raw Data Folder Deleted successfully!!
+2023-03-14/14:20:58		GoodRaw directory deleted successfully!!!
+2023-03-14/14:22:04		BadRaw directory deleted before starting validation!!!
+2023-03-14/14:22:04		GoodRaw directory deleted successfully!!!
+2023-03-14/14:22:25		GoodRaw directory deleted successfully!!!
+2023-03-14/14:22:25		Bad files moved to archive
+2023-03-14/14:22:25		Bad Raw Data Folder Deleted successfully!!
